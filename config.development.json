@@ -1,5 +1,5 @@
 {
-	"url": "https://magical-rv-14.azurewebsites.net",
+	"url": "http://localhost:2368",
 	"server": {
 		"host": "127.0.0.1",
 		"port": 2368	
