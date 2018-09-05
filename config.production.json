@@ -12,7 +12,7 @@
     },
     "caching": {
 		"frontend": {
-			"maxAge": 600
+			"maxAge": 86400
 		}
 	}
 }
